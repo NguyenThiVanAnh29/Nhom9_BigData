@@ -1,0 +1,21 @@
+# dataset & data
+dataset/
+datasets/
+datasets1/
+dataset.zip
+images/
+output/
+
+# model & checkpoint
+checkpoints/
+*.ckpt
+*.safetensors
+
+# environment
+elect311/
+pnp-env/
+__pycache__/
+
+# cache
+*.pyc
+.ipynb_checkpoints/
