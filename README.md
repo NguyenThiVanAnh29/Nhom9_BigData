@@ -9,9 +9,9 @@ Toàn bộ quá trình chạy mô hình được thực hiện trên Kaggle:
 https://www.kaggle.com/code/phamnhat181024/elect-final/edit
 
 ## Nội dung nhóm thực hiện
-Clone mã nguồn thuật toán ELECT
-Chạy thử nghiệm thuật toán trên Kaggle Notebook
-Thu thập kết quả và đánh giá
+- Clone mã nguồn thuật toán ELECT
+- Chạy thử nghiệm thuật toán trên Kaggle Notebook
+- Thu thập kết quả và đánh giá
 
 ### Link dữ liệu private
 Dữ liệu do nhóm tự thu thập, lưu trữ trên Google Drive (dung lượng lớn ~9GB):
