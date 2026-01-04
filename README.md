@@ -12,7 +12,7 @@ https://www.kaggle.com/code/phamnhat181024/elect-final/edit
 - Clone mã nguồn thuật toán ELECT
 - Chạy thử nghiệm thuật toán trên Kaggle Notebook
 - Thu thập kết quả và đánh giá
-- Trình bày luồng xử lý Big Data ở mức mô hình (chưa triển khai môi trường phân tán thật)
+
 
 ## Ghi chú
 Do giới hạn dung lượng của GitHub, các file notebook lớn, mô hình và dữ liệu không được lưu trực tiếp trong repository này.
